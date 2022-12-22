@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekturtech&label=Profile%20views&color=0e75b6&style=flat" alt="bekturtech" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/@bzhamalbekov" target="blank"><img src="https://img.shields.io/twitter/follow/@bzhamalbekov?logo=twitter&style=for-the-badge" alt="@bzhamalbekov" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@bzamalbekov" target="blank"><img src="https://img.shields.io/twitter/follow/@bzhamalbekov?logo=twitter&style=for-the-badge" alt="@bzhamalbekov" /></a> </p>
 
 - 🌱 I’m currently learning **Jyldyz Academy, Class Central, Books and others sources**
 
